@@ -23,13 +23,13 @@ int main() {
     const double PI = 3.14159;
 
     printf("Enter radius: ");
-    scanf("%lf", &radius);
+    scanf("%lf" , &radius);   
 
     area = PI * radius * radius;
     circumference = 2 * PI * radius;
 
     printf("Area=%.2f, Circumference=%.2f\n", area, circumference);
-
+  
     return 0;
 }
 
