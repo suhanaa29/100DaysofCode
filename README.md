@@ -1,8 +1,6 @@
-# 🎯 100 Days of Code – C Programming Journey
+<h1 align="center" id="title">#100DaysOfCode</h1>
 
-Welcome to my **100 Days of Code** challenge in C!  
-This repo documents my daily progress, learning, and projects as I sharpen my C skills and build clean, beginner‑friendly programs.
-
+<p align="center"><img src="https://socialify.git.ci/suhanaa29/100DaysofCode/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 ---
 
 ## 📂 Project Structure
