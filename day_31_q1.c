@@ -30,15 +30,18 @@ int search(int array[], int n, int x) {
     return -1;
 }
 
+// step1: enter the num of elements u want
 int main() {
     int n;
     scanf("%d", &n); // size of arr
 
+    // step2: enter the elements 
     int array[n];
     for (int i = 0; i < n; i++) {
         scanf("%d", &array[i]); // arr elements
     }
 
+    // step3: search for the elements
     int x;
     printf("enter the element: ");
     scanf("%d", &x); // Read element to search
