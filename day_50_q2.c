@@ -17,6 +17,7 @@ int main() {
     // Declare array to store input string
     char string[100];
     
+    
     // Read input string
     scanf("%s", string);
     
